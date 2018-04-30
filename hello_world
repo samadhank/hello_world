@@ -1,6 +1,6 @@
 Module.register("helloworld",{
 	// Default module config.
-	defaults: {
+		defaults: {
 		text: "Hello World!"
 	},
 
